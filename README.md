@@ -5,10 +5,14 @@
 Source code (SC) is found at the folder named "src".
 - Calculator.java
 
-![](Calculator_First.png)
-![](Calculator_Second.png)
-![](Calculator_Third.png)
-![](Calculator_Fourth.png)
+\Normal View of the Calculator.
+![](NormalView.png)
+\All Features of the Calculator.
+![](AllFeatures.png)
+\Scientific View of the Calculator.
+![](ScientificFeature.png)
+\History View of the Calculator.
+![](HistoryFeature.png)
 
 Programmed by:
 HibernatedApe / Yukode
